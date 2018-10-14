@@ -8,6 +8,13 @@
 #include "food-fun.c"
 #include "startend.c"
 
+
+//这里是作为 git 的演示
+/*
+此处的东西没有任何意义
+哈哈哈
+*/
+
 int main(int num,char * string[])
 {
     list head;
